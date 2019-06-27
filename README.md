@@ -1,25 +1,22 @@
 # misc
 
-<style>
-  div.figure { width: 200px; float: left; margin: 10px; text-align: center;}
-</style>
-
 <img src="img/psyTeachR_logo.png" style="width: 100%;">
 
-![psyTeachR](img/psyteachr_hex.png)
+<img src="img/psyteachr_hex.png" style="width: 200px; float: left;">
 
-![webex](img/webex_hex.png)
+<img src="img/webex_hex.png" style="width: 200px; float: left;">
 
-![hack your data beautiful](img/hydb_hex.png)
+<img src="img/hydb_hex.png" style="width: 200px; float: left;">
 
-![methods & metascience](img/mms_hex.png)
+<img src="img/mms_hex.png" style="width: 200px; float: left;">
 
-![research cycle](img/research_cycle.png)
+<img src="img/research_cycle.png" style="width: 200px; float: left;">
 
-![template](img/blank_hex.png)
+<img src="img/blank_hex.png" style="width: 200px; float: left;">
 
-![Warhol-esque Rlogo](img/Rlogo-warhol-9b.svg)
+<img src="img/Rlogo-warhol-9b.svg" style="width: 200px; float: left;">
 
+<br style="clear: both;">
 
 ## Resource files
 
